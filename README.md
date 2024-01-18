@@ -1,5 +1,6 @@
 
 # PMF Analysis Project
+![pmf-engine](https://github.com/berkdurmus/pmf-engine/assets/32547890/824c76ac-a677-4072-b2c4-e57e9ef086a6)
 
 ## Overview
 This project is designed to analyze various metrics to assess a company's Product-Market Fit (PMF). It includes scripts for analyzing customer feedback, usage metrics, churn rate, and a main application script that orchestrates the entire PMF analysis process.
